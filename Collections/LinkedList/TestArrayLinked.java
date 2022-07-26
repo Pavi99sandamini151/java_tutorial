@@ -17,4 +17,4 @@ class TestArrayLinked{
         System.out.println("arraylist: "+al);
         System.out.println("linkedlist: "+al2);
     }
-}    
+}
